@@ -1,3 +1,6 @@
+## Instructions for use of scripts
+It is necessary that the input file is in the working directory in the folder "input" and filename "household_power_consumption.txt"
+
 ## Introduction
 
 This assignment uses data from
